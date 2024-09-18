@@ -1,0 +1,5 @@
+@EndUserText.label: 'ZFIXEDASSET'
+@OData.schema.name: 'ZZ1_FIXEDASSETREPORT_CDS'
+define service ZFIXEDASSET {
+ expose ZZZ1_FIXEDASSETREPORT; 
+ } 
